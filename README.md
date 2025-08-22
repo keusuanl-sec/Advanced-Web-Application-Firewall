@@ -26,7 +26,7 @@ In addition to signature-based detection, it uses **machine learning-based anoma
     <img src="./output-screenshots/waf-ss2.png" width="400"/>
 </p>
 
-<p float="left">
+<p float="left"> 
     <img src="./output-screenshots/waf-ss3.png" width="400"/>
     <img src="./output-screenshots/waf-ss4.png" width="400"/>
 </p>
